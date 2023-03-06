@@ -2,7 +2,7 @@
 
 #### About
 
-I'm a front-end and mobile developer . And, I'm studying at [Rocketseat](https://www.rocketseat.com.br/), [Alura](https://www.alura.com.br/) and [DevMedia](https://www.devmedia.com.br/)
+I'm a Front-end and Mobile developer . And, I'm studying at [Rocketseat](https://www.rocketseat.com.br/), [Alura](https://www.alura.com.br/) and [DevMedia](https://www.devmedia.com.br/)
 
 #### Current stack
 
