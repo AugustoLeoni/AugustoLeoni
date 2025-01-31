@@ -7,7 +7,7 @@ I'm a Front-end and Mobile developer . And, I'm studying at [Rocketseat](https:/
 #### Current stack
 
 - ⚡ Main language: `Javascript`
-- 📡 Backend: `Nodejs`
+- 📡 Backend: `Nodejs`, `C#`
 - 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
 - 📱 Mobile: `React Native`
 - 🎨 Layout Design: `Figma`
@@ -16,5 +16,5 @@ I'm a Front-end and Mobile developer . And, I'm studying at [Rocketseat](https:/
 
 #### Contacts
 
-- 📬 Email: jose.augustolm@outllok.com
+- 📬 Email: jose.augustolm@outlook.com
 - 🌎 Linkedin: https://www.linkedin.com/in/jose-leoni/
