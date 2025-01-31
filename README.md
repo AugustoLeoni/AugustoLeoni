@@ -16,5 +16,5 @@ I'm a Front-end and Mobile developer . And, I'm studying at [Rocketseat](https:/
 
 #### Contacts
 
-- 📬 Email: jaleonimartins@hotmail.com
+- 📬 Email: jose.augustolm@outllok.com
 - 🌎 Linkedin: https://www.linkedin.com/in/jose-leoni/
